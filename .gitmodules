@@ -1,0 +1,3 @@
+[submodule "favorites"]
+	path = favorites
+	url = git@github.com:arltk/wallpapers-favorites
