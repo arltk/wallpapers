@@ -1,3 +1,4 @@
 [submodule "favorites"]
 	path = favorites
 	url = git@github.com:arltk/wallpapers-favorites
+	branch = old-20260322
