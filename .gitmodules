@@ -1,3 +1,6 @@
 [submodule "favorites"]
 	path = favorites
 	url = git@github.com:arltk/wallpapers-favorites
+[submodule "char/fav"]
+	path = char/fav
+	url = ssh://git@github.com/arltk/wallpapers-favorites.git
